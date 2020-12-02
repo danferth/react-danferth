@@ -1,9 +1,9 @@
 import React from "react";
-
+import Resume from "./components/Resume";
 const App = () => {
   return (
     <div>
-      <h1>Hello</h1>
+      <Resume />
     </div>
   );
 };
